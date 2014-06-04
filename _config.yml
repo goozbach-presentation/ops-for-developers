@@ -1,3 +1,4 @@
 ---
 pygments: True
 include: ['.htaccess']
+markdown: kramdown
