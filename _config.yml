@@ -2,3 +2,5 @@
 pygments: True
 include: ['.htaccess']
 markdown: kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md,mmd
+
