@@ -1,9 +1,9 @@
 author: Derek Carter aka 'goozbach'  
 company: Goozbach Infrastructure Solutions  
-title: Ops for Developers
-subtitle: Because I can't bring myself to use the term 'DevOps'
+title: Ops for Developers  
+subtitle: Because I can't bring myself to use the term 'DevOps'  
 footer: Derek Carter  -- derek@goozbach.com  
-subfooter: http://presentation.goozbach.com/
+subfooter: http://presentation.goozbach.com/  
 
 # Historically
 Developers  
@@ -100,17 +100,17 @@ http://www.opsreportcard.com/
 
 # References
 * Devops
-[devops and enterprise inertia](https://major.io/2014/04/17/devops-and-enterprise-inertia/)  
-[the developer is dead](http://www.paperplanes.de/2014/4/17/the-developer-is-dead.html)  
-[killing the developer](http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/)  
-[distilling devops](http://michaeldehaan.net/post/19059316216/distilling-devops)  
-[Code as craft](http://codeascraft.com/)  
-* Books  
-[Information Technology corrosion competitive advantage](http://www.amazon.com/Information-Technology-Corrosion-Competitive-Advantage/dp/1591394449)  
-* Virtual Environments  
-[Vagrant](http://www.vagrantup.com/)  
-[Vagrant Boxes](http://www.vagrantbox.es/)  
-[Virtualbox](https://www.virtualbox.org/)  
-* Config Management  
-[Ansible](http://docs.ansible.com/)  
-[Puppet](http://puppetlabs.com/)  
+  * [devops and enterprise inertia](https://major.io/2014/04/17/devops-and-enterprise-inertia/)
+  * [the developer is dead](http://www.paperplanes.de/2014/4/17/the-developer-is-dead.html)
+  * [killing the developer](http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/)
+  * [distilling devops](http://michaeldehaan.net/post/19059316216/distilling-devops)
+  * [Code as craft](http://codeascraft.com/)
+* Books
+  * [Information Technology corrosion competitive advantage](http://www.amazon.com/Information-Technology-Corrosion-Competitive-Advantage/dp/1591394449)
+* Virtual Environments
+  * [Vagrant](http://www.vagrantup.com/)
+  * [Vagrant Boxes](http://www.vagrantbox.es/)
+  * [Virtualbox](https://www.virtualbox.org/)
+* Config Management
+  * [Ansible](http://docs.ansible.com/)
+  * [Puppet](http://puppetlabs.com/)
